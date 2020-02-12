@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Lab 3 Milestone 1</string>
     <string name="item_1">Item 1</string>
+    <string name="item_2">item_2</string>
 </resources>
